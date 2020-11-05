@@ -1,7 +1,7 @@
 .PHONY: help build start stop test test-env
 
 # Docker image name and tag
-IMAGE:=pinkaban/ds-test-project-repo
+IMAGE:=Pinkaban/ds-test-project-repo
 TAG?=latest
 # Shell that make should use
 SHELL:=bash
